@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628655594186",
+    "project_id": "appfirebasekotlin-85e85",
+    "storage_bucket": "appfirebasekotlin-85e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628655594186:android:db3aa4f69b5e351ea0f233",
+        "android_client_info": {
+          "package_name": "com.example.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWsKySdw5gOj3gGLsvoE5v_iMk1kXBl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
